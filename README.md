@@ -3,7 +3,7 @@ These are Python examples of several programs that could be used when tracking b
 
 ## Pie Chart
 This program takes a look at a persons monthly expenses and generates a pie chart displaying the percentages of total expenses.<br />
-**File:** *budget-pie-chart.py*
+**File:** *budget-pie-chart.py*<br />
 **File:** *monthly_expenses.txt*
 
 ## Salary and Bonus
